@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ios": "cpp",
+        "__node_handle": "cpp",
+        "memory": "cpp",
+        "iosfwd": "cpp"
+    }
+}
